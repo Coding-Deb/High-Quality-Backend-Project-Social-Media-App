@@ -1,0 +1,27 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor config files
+.DS_Store
+.editorconfig
+.gitattributes
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Build output files
+build/
+dist/
+lib/
+
+# Test results
+coverage/
+test-results/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
